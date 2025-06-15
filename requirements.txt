@@ -1,0 +1,7 @@
+Flask
+flask-cors
+scikit-learn
+joblib
+pandas
+numpy
+pyjwt
